@@ -115,6 +115,13 @@ def page(b):
     <a class="btn" href="{href}" download rel="nofollow noopener">Descargar el PDF ↓</a>
   </div>
 </section>
+<section>
+  <div class="beta">
+    <h2>Tu reseña, el día del lanzamiento</h2>
+    <p>Cuando el libro salga en Amazon te enviaré el enlace. Si lo leíste, una reseña honesta de una o dos líneas es la mayor ayuda que puede recibir un autor independiente: decide si el libro llega o no a lectores que no me conocen.</p>
+    <p>No tiene que ser positiva. Tiene que ser tuya.</p>
+  </div>
+</section>
 <footer>© {datetime.date.today().year} Ney Torres · {SERIE} · Página privada para lectores invitados.</footer>
 </div></body></html>'''
 
