@@ -32,12 +32,12 @@ BOOKS = [
       sub='y el fin de nuestra sociedad', pdf='El_Anticristo_de_Jung_lectura_beta.pdf',
       accent='#dcb56a', bg='#12132e',
       hook='El Anticristo no llegó del cielo. Salió de nosotros.',
-      body=['En 1951, Carl Gustav Jung publicó Aion, un libro difícil que casi nadie leyó fuera de los círculos especializados. Allí sostenía que el Anticristo no es una persona, sino la Sombra colectiva de una civilización que quiso ser solo luz.',
-            'Setenta años después, esa Sombra tiene algoritmos, plataformas y una velocidad de contagio que Jung no podía imaginar. Este libro traduce Aion a un lenguaje claro y lo aplica a lo que vivimos hoy: la polarización, la propaganda, las redes sociales y la inteligencia artificial.'],
-      bullets=['Qué es la Sombra y por qué la proyectamos sobre el enemigo de turno.',
-               'Cómo se coordinan las masas sin que nadie dé la orden.',
-               'Por qué el sistema teme al individuo que no puede comprar.',
-               'Tres prácticas concretas para no quedar poseído por la Sombra colectiva.'],
+      body=['En 1951, Carl Gustav Jung publicó Aion, un libro difícil que casi nadie leyó fuera de los círculos especializados. Allí sostenía que el Anticristo no es una persona, sino la mitad oscura que una civilización expulsó de su ideal de luz.',
+            'Este libro recorre Aion paso a paso, en lenguaje claro, y propone una lectura incómoda: en nuestra época esa mitad expulsada regresó con forma de tecnología. Poder sin responsabilidad, información sin sabiduría, conexión sin intimidad.'],
+      bullets=['El mapa de la psique según Jung: el yo, la Sombra, el ánima y el Sí-mismo.',
+               'Por qué Cristo y el Anticristo son dos peces atados por el mismo hilo.',
+               'Por qué el Anticristo de nuestra época tiene forma de tecnología.',
+               'Cómo volverse una persona entera en la era de los algoritmos.'],
       close='Un mapa para mirar lo que preferimos no ver.'),
 ]
 
